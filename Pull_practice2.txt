@@ -1,0 +1,6 @@
+What are 4 types of Java?
+There are four platforms of the Java programming language:
+Java Platform, Standard Edition (Java SE)
+Java Platform, Enterprise Edition (Java EE)
+Java Platform, Micro Edition (Java ME)
+JavaFX.
